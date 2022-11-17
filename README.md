@@ -1,3 +1,3 @@
 # Teamplate-BRUTO
-https://danilokeithi.github.io/Teamplate-BURTO
+https://danilokeithi.github.io/Teamplate-BRUTO
 
